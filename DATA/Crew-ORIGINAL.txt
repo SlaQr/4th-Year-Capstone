@@ -1,0 +1,22 @@
+Captain Yid, 3, 27, 3, Bridge 1, Bridge 2
+First Officer, 2, 19, 3, Bridge 1, Bridge 2
+Comm Officer, 1, 11, 4, Bridge 1, Bridge 2, Computer
+Operations Officer, 1, 12, 3, Life Support Center, Officers' Quarters
+Engineering Officer, 1, 12, 2, Engine Room, Pool Room
+Supply Officer, 1, 11, 2, Ship's Store, Wardroom
+Doc, 1, 11, 4, Sick Bay, Pool Room
+Medic, 1, 11, 4, Sick Bay, Hospital Ward
+Sparks, 1, 16, 3, Bridge 1, Bridge 2
+Marine Sergeant, 3, 21, 3, Pool Room, Mess Deck
+Marine 1, 2, 19, 3, Pool Room, Sick Bay
+Marine 2, 2, 18, 3, Pool Room, Sick Bay
+Cook, 1, 21, 3, Galley, Wardroom
+Yeoman, 1, 15, 3, Bridge 1, Bridge 2
+Technician, 1, 11, 4, Sensor 1, Sensor 2
+Engineer, 2, 13, 2, Engine Room, Machine Shop, Aft Machine Shop
+Machinist, 2, 14, 2, Machine Shop, Aft Machine Shop
+Coxswain, 2, 18, 3, Mess Deck, Sick Bay
+Pilot 1, 1, 15, 3, Crew's Quarters (Bow), Crew's Quarters (Internal), Crew's Quarters (Starboard), Crew's Quarters (Portside), Pool Room
+Pilot 2, 1, 12, 3, Crew's Quarters (Bow), Crew's Quarters (Internal), Crew's Quarters (Starboard), Crew's Quarters (Portside), Pool Room
+Robot, 4, 44, 1, Machine Shop, Aft Machine Shop
+Mascot, 1, 8, 4, Captain's Cabin

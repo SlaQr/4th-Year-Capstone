@@ -1,0 +1,45 @@
+Aft Machine Shop -> Hallway 12, Engine Room
+Atmosphere Probe Control -> Hallway 1, Atmosphere Probe Launch
+Atmosphere Probe Launch -> Atmosphere Probe Control, Machine Shop
+Bridge 1 -> Captain's Cabin, Officers' Quarters, Hallway 4
+Bridge 2 -> Hallway 9, Mess Deck
+Captain's Cabin -> Bridge 1, Computer
+Cockboat Bay -> Saucer Bay, Hallway 7, Scout Bay
+Computer -> Captain's Cabin
+Crew's Quarters (Bow) -> Hallway 1
+Crew's Quarters (Internal) -> Scout Bay, Hallway 12, Sensor 2
+Crew's Quarters (Portside) -> Hallway 13
+Crew's Quarters (Starboard) -> Hallway 9
+Damage Control -> Machine Shop, Hallway 3, Saucer Bay
+Engine Room -> Aft Machine Shop, Aft Machine Shop, Hallway 11, Hallway 13 
+Fuel Pod 1 -> Hallway 11
+Fuel Pod 2 -> Hallway 13
+Galley -> Hallway 5, Main Cargo Hold, Mess Deck
+Hallway 1 -> Crew's Quarters (Bow), Atmosphere Probe Control, Hallway 2, Sensor 1
+Hallway 2 -> Officers' Quarters, Machine Shop, Hallway 1, Hallway 3
+Hallway 3 -> Hallway 5, Damage Control, Hallway 6, Hallway 2
+Hallway 4 -> Bridge 1, Hallway 5, Main Cargo Hold
+Hallway 5 -> Wardroom, Hallway 3, Hallway 4, Galley
+Hallway 6 -> Hallway 3, Hallway 7, Hallway 8, Mess Deck, Sick Bay
+Hallway 7 -> Hallway 6, Sick Bay, Cockboat Bay
+Hallway 8 -> Hallway 6, Science Lab, Hallway 10, Hallway 12
+Hallway 9 -> Bridge 2, Crew's Quarters (Starboard), Hallway 10
+Hallway 10 -> Hallway 9, Hallway 11, Hallway 8
+Hallway 11 -> Pool Room, Fuel Pod 1, Engine Room, Hallway 10
+Hallway 12 -> Crew's Quarters (Internal), Hallway 8, Aft Machine Shop, Hallway 13
+Hallway 13 -> Crew's Quarters (Portside), Hallway 12, Engine Room, Fuel Pod 2
+Hospital Ward -> Sick Bay
+Life Support Center -> Machine Shop
+Machine Shop -> Life Support Center, Atmosphere Probe Launch, Saucer Bay, Damage Control, Hallway 2
+Main Cargo Hold -> Ship's Store, Galley, Hallway 4
+Mess Deck -> Galley, Ship's Store, Bridge 2, Hallway 6
+Officers' Quarters -> Hallway 2, Bridge 1
+Pool Room -> Hallway 11
+Saucer Bay -> Machine Shop, Damage Control, Cockboat Bay
+Science Lab -> Hallway 8
+Scout Bay -> Cockboat Bay, Crew's Quarters (Internal)
+Sensor 1 -> Hallway 1
+Sensor 2 -> Crew's Quarters (Internal)
+Ship's Store -> Main Cargo Hold, Mess Deck
+Sick Bay -> Hallway 6, Hallway 7, Hospital Ward
+Wardroom -> Hallway 5

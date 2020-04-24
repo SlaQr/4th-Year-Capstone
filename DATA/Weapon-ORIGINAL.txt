@@ -1,0 +1,12 @@
+Bottle of Acid, One, (1; No), No, 3
+Canister of Zgwortz, One, (1; No), No, 3
+Comm Beamer, Room, (LoS; Yes), No, 2
+Electric Fence, Room, (0; No), No, 2
+Fire Extinguisher, Room, (1; Yes), No, 2
+Gas Grenade, Hatch, (1; No), STUN, 3
+Hypodermic Needle, One, (0; Yes), No, 2
+Knife, One, (0; Yes)(LoS; No), No, 3
+Pool Stick, One, (0; Yes), No, 2
+Rocket Fuel, Hatch, (1; No), KILL 5, 3
+Stun Pistol, One, (LoS; Yes), No, 2
+Welding Torch, One, (0; Yes), No, 2

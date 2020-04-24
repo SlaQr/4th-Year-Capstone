@@ -1,0 +1,12 @@
+Bottle of Acid -> Science Lab
+Canister of Zgwortz -> Galley, Mess Deck
+Comm Beamer -> Sensor 1, Sensor 2
+Electric Fence -> Main Cargo Hold
+Fire Extinguisher -> Machine Shop, Aft Machine Shop
+Gas Grenade -> Damage Control
+Hypodermic Needle -> Sick Bay
+Knife -> Galley
+Pool Stick -> Pool Room
+Rocket Fuel -> Fuel Pod 1, Fuel Pod 2
+Stun Pistol -> Bridge 1, Bridge 2
+Welding Torch -> Machine Shop, Aft Machine Shop

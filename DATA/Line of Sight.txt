@@ -1,0 +1,8 @@
+Bridge 2 ->  Hallway 10
+Cockboat Bay -> Hallway 6
+Sensor 1 -> Hallway 2, Hallway 3
+Hallway 1 -> Hallway 3
+Hallway 3 -> Hallway 1, Hallway 4, Hallway 8
+Hallway 8 -> Hallway 11, Hallway 13
+Fuel Pod 2 -> Hallway 12
+Fuel Pod 1 -> Hallway 10
